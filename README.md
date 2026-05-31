@@ -27,13 +27,15 @@ This project analyzes mental health patterns among university students using Exc
 ## 📊 Visualizations
 
 ### Gender vs Depression
-![Gender vs Depression](GENDER VS DEPRESSION.PNG)
+![Gender vs Depression](GENDERVSDEPRESSION.PNG)
 
 ### Age vs Anxiety
-![Age vs Anxiety](AGE VS ANXIETY.PNG)
+![Age vs Anxiety](AGEVSANXIETY.PNG)
 
 ### CGPA vs Panic Attacks
 ![CGPA vs Panic Attacks](CGPAVSANXIETY.PNG)
+### Assistance Seeking
+![Assistance seeking](ASSISTANCESEEKING.PNG)
 
 ## 👩‍💻 Author
 Diana Njoki
