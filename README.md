@@ -24,6 +24,16 @@ This project analyzes mental health patterns among university students using Exc
 - Students aged 18 showed higher anxiety levels
 - Only a small percentage of students sought help
 - Panic attacks were more common among average-performing students
+## 📊 Visualizations
+
+### Gender vs Depression
+![Gender vs Depression](GENDER VS DEPRESSION.PNG)
+
+### Age vs Anxiety
+![Age vs Anxiety](AGE VS ANXIETY.PNG)
+
+### CGPA vs Panic Attacks
+![CGPA vs Panic Attacks](CGPAVSANXIETY.PNG)
 
 ## 👩‍💻 Author
 Diana Njoki
