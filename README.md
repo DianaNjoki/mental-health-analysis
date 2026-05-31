@@ -27,7 +27,7 @@ This project analyzes mental health patterns among university students using Exc
 ## 📊 Visualizations
 
 ### Gender vs Depression
-![Gender vs Depression](GENDERVSDEPRESSION.PNG)
+![Gender vs Depression](charts/GENDERVSDEPRESSION.PNG)
 
 ### Age vs Anxiety
 ![Age vs Anxiety](AGEVSANXIETY.PNG)
